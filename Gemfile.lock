@@ -47,9 +47,15 @@ GEM
     archive-zip (0.12.0)
       io-like (~> 0.3.0)
     arel (9.0.0)
+    autoprefixer-rails (9.7.5)
+      execjs
+    bcrypt (3.1.12)
     bindex (0.8.1)
     bootsnap (1.4.6)
       msgpack (~> 1.0)
+    bootstrap-sass (3.3.7)
+      autoprefixer-rails (>= 5.2.1)
+      sass (>= 3.3.4)
     builder (3.2.4)
     byebug (11.1.1)
     capybara (3.31.0)
@@ -126,6 +132,10 @@ GEM
       bundler (>= 1.3.0)
       railties (= 5.2.4.1)
       sprockets-rails (>= 2.0.0)
+    rails-controller-testing (1.0.4)
+      actionpack (>= 5.0.1.x)
+      actionview (>= 5.0.1.x)
+      activesupport (>= 5.0.1.x)
     rails-dom-testing (2.0.3)
       activesupport (>= 4.2.0)
       nokogiri (>= 1.6)
@@ -194,7 +204,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bcrypt (~> 3.1.7)
   bootsnap (>= 1.1.0)
+  bootstrap-sass
   byebug
   capybara (>= 2.15)
   chromedriver-helper
@@ -205,6 +217,7 @@ DEPENDENCIES
   pry
   puma (~> 3.11)
   rails (~> 5.2.4, >= 5.2.4.1)
+  rails-controller-testing
   sass-rails (~> 5.0)
   selenium-webdriver
   spring
@@ -215,7 +228,7 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 RUBY VERSION
-   ruby 2.5.7p206
+   ruby 2.5.8p224
 
 BUNDLED WITH
    1.17.3
