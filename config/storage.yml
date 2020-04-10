@@ -18,7 +18,7 @@ local:
  google:
   service: GCS
   project: AusSpaceAgencyProject123
-  credentials: <%= Rails.root.join("servicekey.json") %>
+  credentials: <%= Rails.root.join("/servicekey.json") %>
   bucket: aus-space-data-store
 
 # Use rails credentials:edit to set the Azure Storage secret (as azure_storage:storage_access_key)
