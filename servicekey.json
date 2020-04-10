@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ausspaceagencyproject123",
+  "private_key_id": "ca98b3fd3df30bf698d0ed2c30f8b92934b69594",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD1rkH1Hk5sEv1g\nYL6Xzpi+x5mqnbFfVlZoiFEKT9Q+3hh5aywecPpMIdmPJlCwitlpARUzLRNOWESY\n4Tvw1QfmsNwTbLQiewVz5aALVVkuDJ271PuGKH0gS2L30sh2op2Lr0T70237mLOY\nVGOr01cx/zVKQZI+vTlFgtOKsXoSfqp44oGiECK513hoZLE53oUuWnDyS3zKo/jZ\n0GFy/vtFFtsyPklgxlXZZRdOq6C48gOoT3xam5UwQiDTr0P1uWeuIYOhJB5kMau4\n8y3be4KBe41ScRTAtmi9pf/JtpZuTRJ+6AhhxyehdbqZmMu9GAC3ZG4wJGa4V5Xx\n1G3DORT3AgMBAAECggEAeHLbFnQpyZWT0KUNvDqHK32LSpkuZUncajpu1Onnan0T\nra+L/U6xgBLWaXbE95DTX0YvIRx3yyC+XN+MNhoTWhgahZF1TTRYK4aILRZGdyur\nR3P3bsI5+lPLbSnTq0o1iE7BON9jHAc1AblZ9ltSdAolk8bLDuRRiFFIKkaxzQ+D\n0qe4oQigXZ4cRiwIJNc9HnFisYtTACnfDhRPayutSLPeg3295u1PjTLRz6jYO1f+\n1ZImdVWDw+YTZO7cyo38Y6XCY0cnc0jE1BlOz0xoz9v1HFcoh8kgE3NlaoThkuoP\nHex3SAuScFjnAUwuRTkjtqmbItCsG9wuW7Pvsvms0QKBgQD9uBktT9wf07ttAG5I\neTnXReu/ZJ9hZFauEkvjlit0cAQOlVAomAwaD6XsT+0JJd5N2QfIM98QjEV2tP3V\n24oBAR9KIbVZ11nX3rZLKAWtkLJrJthd0la20DLgJtVz4XzMQZCz7/fwu37YhyX7\nBCs0UcvrJipEO9XSLoyypK8BMQKBgQD346jtX/kUmMPhhtF5KaDJmwQdeEmQhaau\ni37Sog+oZ4TcQiFkULomakf2RjY4ma8prj0spur50skPhbT5TaMaCAQwNRZpCCmT\nx2K4USfKB+nH1A4uOaAsVfKg8AfJ4JdCNlEuaV1zVR3KI9skLcTq5ebl1zaxPnES\nLxYQ9kCupwKBgQCCI/xGEcCHUsPAlYf8BLJ2iZbzBVn7SsxrXVcv1cdUYmCyWkRT\njiom8//Xxud+2b29kKU9O94fTtQSn6PUHlgbS8gQ7llnS975q3M1+cFv1diuva4d\n8dYoz4JJF6JFXlP1MWxX3679/C6EQk5pAypmG87NPzZO6aIzvUzOFUrvAQKBgHVL\nEcmQGem3ByiVhFSSb/Q1F1NicVyjAOWiN9YuvL3wjZsy513yHMLEk1xiiJFrlshg\nG64fJRwksuJXX/R+2egdVu4AkKQOKq40L/AK5orgB6x4GGWi+rk/ydiA+w546Nl5\nnhwZ2xARfFEDelO6HG0Rb5ndpZFkfFggU46fFqgNAoGBAN+fOQloBzZ69BMeGinx\nasGjfIV+p/pZBPd1z68B5CerKWUueklb4O1XLkrY3woIW8B9dVgSlsKkHY14Vodd\n2nWSc81fvPchjfbEIlL+WVt6mOZRq88JwUk1uT0CQXjtXPNmbjSxTVAXYhkwxpGm\nl+wyG4oZQrDE6L44vFtHXqlP\n-----END PRIVATE KEY-----\n",
+  "client_email": "josh123@ausspaceagencyproject123.iam.gserviceaccount.com",
+  "client_id": "106794241694679494885",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/josh123%40ausspaceagencyproject123.iam.gserviceaccount.com"
+}
