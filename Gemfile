@@ -69,3 +69,5 @@ gem 'rails-controller-testing'
 gem 'devise'
 
 gem 'rails_admin'
+
+gem 'google-cloud-storage' 
